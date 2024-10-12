@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cambios de Dificultad</title>
+    <style>
+        @font-face {
+            font-family: 'Minercraftory';
+            src: url('Minercraftory.ttf') format('truetype');
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: transparent; /* Fondo transparente */
+            color: white;
+            margin: 0;
+            padding: 0;
+            overflow: hidden; /* Evitar scroll en el body */
+        }
+        .container {
+            width: 1169px;
+            height: 552px;
+            margin: 20px auto;
+            padding: 10px 70px;
+            background-image: url(fondo.png);
+            background-size: cover;
+            position: relative;
+            box-sizing: border-box;
+            overflow-y: auto;
+        }
+
+        /* Título */
+        .title {
+            text-align: left;
+            font-weight: bold;
+            color: #fff200; /* Color de texto que se puede ajustar */
+            text-shadow: 2px 2px #000;
+        }
+        .title-small {
+            font-size: 22px;
+            color: white; /* Cambiar a blanco */
+            font-family: 'Minercraftory'; /* Fuente de letra Minercraftory */
+        }
+        .title-large {
+            font-size: 38px;
+            font-family: 'Minercraftory'; /* Fuente de letra Minercraftory */
+            color: white; /* Cambiar a blanco */
+            animation: rainbow-outline 2s infinite; /* Animación de contorno RGB con menor velocidad */
+            /* text-shadow: 0 0 2px red, 0 0 4px rgb(111, 0, 255), 0 0 6px rgb(119, 0, 255), 0 0 8px green, 0 0 10px blue, 0 0 12px purple; Menos brillo */
+        }
+
+        /* Animación de contorno RGB */
+        @keyframes rainbow-outline {
+            0% { text-shadow: 0 0 2px red; }
+            16% { text-shadow: 0 0 4px rgb(89, 0, 255); }
+            33% { text-shadow: 0 0 6px rgb(119, 0, 255); }
+            50% { text-shadow: 0 0 8px green; }
+            66% { text-shadow: 0 0 10px blue; }
+            83% { text-shadow: 0 0 12px purple; }
+            100% { text-shadow: 0 0 2px red; }
+        }
+
+        /* Fecha */
+        .subtitle {
+            text-align: center;
+            font-size: 18px;
+            color: #ffffff;
+            margin-top: -60px;
+            margin-left: 600px;
+            text-shadow: 2px 2px #000;
+        }
+
+        .subtitle .date {
+            font-family: 'Minercraftory'; /* Fuente de letra Minercraftory */
+            margin-top: 5px; /* Espaciado entre el día y la fecha */
+            color: white; /* Color blanco para la fecha */
+        }
+
+        /* Color configurable para los puntos de la fecha */
+        .dot {
+            color: #ff0000; /* Cambia este color a tu preferencia */
+        }
+
+        /* Secciones de cambios */
+        .section-container {
+            margin-top: 10px; /* Subir las secciones más arriba */
+            display: block; /* Para mantener las secciones apiladas verticalmente */
+        }
+        .section {
+            display: flex;
+            align-items: center;
+            margin: 10px 0;
+            padding: 10px;
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+            width: 48%;
+            height: 90px;
+            box-sizing: border-box;
+        }
+        .section img {
+            width: 45px;
+            height: 45px;
+            margin-right: 10px;
+        }
+        .section h2 {
+            font-size: 18px;
+            color: #c843ff; /* Color de los títulos de cambios */
+            margin: 0;
+        }
+        .section p {
+            font-size: 13px;
+            margin: 5px 0 0 0;
+            color: #e1e1e1;
+        }
+
+        /* Flechas laterales */
+        .arrow-left, .arrow-right {
+            position: fixed;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 24px;
+            color: #fff;
+            cursor: pointer;
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 5px;
+            border-radius: 50%;
+            z-index: 100;
+        }
+        .arrow-left {
+            left: 10px;
+        }
+        .arrow-right {
+            right: 10px;
+        }
+
+        /* Contador de noticias centrado */
+        .news-counter {
+            text-align: center;
+            font-size: 16px;
+            color: #ffffff;
+            margin-top: 20px;
+            position: fixed;
+            bottom: 10px;
+            width: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        /* Noticia oculta por defecto */
+        .noticia {
+            display: none;
+        }
+        .noticia.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- Noticia 1 -->
+    <div class="noticia active" id="noticia-1">
+        <!-- Título dividido -->
+        <div class="title">
+            <div class="title-small">CAMBIOS DE</div>
+            <div class="title-large">DIFICULTAD</div>
+        </div>
+        <!-- Fecha alineada al centro -->
+        <div class="subtitle">
+            <div>Miércoles</div>
+            <div class="date">25<span class="dot">.</span>SEP<span class="dot">.</span>24</div>
+        </div>
+
+        <!-- Secciones de cambios -->
+        <div class="section-container">
+            <div class="section">
+                <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d2/Wooden_Pickaxe_JE3_BE3.png/revision/latest?cb=20200226194132" alt="Icono Decreto">
+                <div>
+                    <h2>PRIMER DECRETO</h2>
+                    <p>Como mi primer decreto utilizando el Cetro Ancestral, digo que ahora <span class="highlight-red">no se puede respirar bajo el agua</span> con pociones de respiración, puertas, antorchas, o cualquier otra cosa que lo intenten.</p>
+                </div>
+            </div>
+
+            <div class="section">
+                <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6f/Elytra_JE2_BE2.png/revision/latest?cb=20230930213939" alt="Icono Lava">
+                <div>
+                    <h2>LAVA RESBALADIZA</h2>
+                    <p>Las fuerzas de Van der Waals están colapsando, Revill se está aprovechando de eso. Ahora, la lava fluye igual de rápido que el agua.</p>
+                </div>
+            </div>
+
+            <div class="section">
+                <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ed/Enchanted_Golden_Apple_JE2_BE2.gif/revision/latest?cb=20200430025309" alt="Icono Revill">
+                <div>
+                    <h2>MOMENTO REVILL</h2>
+                    <p>El "Momento Revill" es un evento causado por Revill usando el Cetro Ancestral, propone retos a todos los héroes con castigos.</p>
+                </div>
+            </div>
+
+            <div class="section">
+                <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Emerald_JE3_BE3.png/revision/latest?cb=20191229174220" alt="Icono Fuego">
+                <div>
+                    <h2>FUEGO ETERNO</h2>
+                    <p>A partir de ahora, el fuego no se apagará con el tiempo; la única forma de extinguirlo será con agua.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Noticia 2 (Nueva noticia añadida) -->
+    <div class="noticia" id="noticia-2">
+        <div class="title">
+            <div class="title-small">NUEVOS RETOS</div>
+            <div class="title-large">EXTRAORDINARIOS</div>
+        </div>
+        <div class="subtitle">
+            <div>Jueves</div>
+            <div class="date">26<span class="dot">.</span>SEP<span class="dot">.</span>24</div>
+        </div>
+
+        <div class="section-container">
+            <div class="section">
+                <img src="icon2.png" alt="Icono Reto 1">
+                <div>
+                    <h2>DESAFÍO IMPLACABLE</h2>
+                    <p>A partir de ahora, todos los héroes deberán enfrentarse a desafíos aún más difíciles, con un aumento significativo en la dificultad de las pruebas.</p>
+                </div>
+            </div>
+
+            <div class="section">
+                <img src="icon3.png" alt="Icono Reto 2">
+                <div>
+                    <h2>TRAMPAS INVISIBLES</h2>
+                    <p>Se han añadido trampas invisibles en todos los terrenos. Solo los héroes más audaces podrán detectarlas y evitar caer en ellas.</p>
+                </div>
+            </div>
+
+            <div class="section">
+                <img src="icon4.png" alt="Icono Reto 3">
+                <div>
+                    <h2>TIEMPO LIMITADO</h2>
+                    <p>El tiempo ahora juega un papel crucial. Los héroes tendrán que completar los desafíos antes de que se agote el reloj.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Flechas para cambiar de noticia -->
+    <div class="arrow-left" onclick="changeNews(-1)">&#9664;</div>
+    <div class="arrow-right" onclick="changeNews(1)">&#9654;</div>
+
+    <!-- Contador de noticias centrado -->
+    <div class="news-counter" id="news-counter"></div>
+
+</div>
+
+<script>
+    // Variables para controlar el estado de las noticias
+    let currentNews = 1;
+    const noticias = document.querySelectorAll('.noticia');
+    const newsCounter = document.getElementById('news-counter');
+
+    function changeNews(direction) {
+        // Ocultar la noticia actual
+        noticias[currentNews - 1].classList.remove('active');
+
+        // Calcular la nueva noticia
+        currentNews += direction;
+        if (currentNews < 1) {
+            currentNews = noticias.length;
+        } else if (currentNews > noticias.length) {
+            currentNews = 1;
+        }
+
+        // Mostrar la nueva noticia
+        noticias[currentNews - 1].classList.add('active');
+
+        // Actualizar el contador
+        newsCounter.textContent = `${currentNews} de ${noticias.length}`; // Eliminada la palabra "Noticia"
+    }
+
+    // Inicializar el contador
+    newsCounter.textContent = `${currentNews} de ${noticias.length}`; // Eliminada la palabra "Noticia"
+</script>
+
+</body>
+</html>
