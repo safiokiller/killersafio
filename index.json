@@ -8,10 +8,10 @@
   },
   "servers": [
     {
-      "id": "Killersafio-1.20.4",
-      "name": "Killersafio (Minecraft 1.20.4)",
-      "description": "Killersafio Running Minecraft 1.20.4 (Fabric v0.16.7)",
-      "icon": null,
+      "id": "MinecraftApocalipse-1.20.4",
+      "name": "Minecraft: Apocalipse (Minecraft 1.20.4)",
+      "description": "Minecraft: Apocalipse Running Minecraft 1.20.4",
+      "icon": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/pack.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.4",
@@ -24,155 +24,575 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.16.7",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
+          "id": "appleskin.json5",
+          "name": "appleskin.json5",
+          "type": "File",
           "artifact": {
-            "size": 1387452,
-            "MD5": "67fdac9560fdae4c5e89fa62394f5802",
-            "url": "https://killersafio-db56a.web.app/host/repo/lib/net/fabricmc/fabric-loader/0.16.7/fabric-loader-0.16.7.jar"
-          },
-          "subModules": [
-            {
-              "id": "1.20.4-fabric-0.16.7",
-              "name": "Fabric (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 2857,
-                "MD5": "fd8204b39035ba1210f9f1769d222f80",
-                "url": "https://killersafio-db56a.web.app/host/repo/versions/1.20.4-fabric-0.16.7/1.20.4-fabric-0.16.7.json"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm:9.7.1",
-              "name": "Fabric (asm)",
-              "type": "Library",
-              "artifact": {
-                "size": 126093,
-                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://killersafio-db56a.web.app/host/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-analysis:9.7.1",
-              "name": "Fabric (asm-analysis)",
-              "type": "Library",
-              "artifact": {
-                "size": 35126,
-                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://killersafio-db56a.web.app/host/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-commons:9.7.1",
-              "name": "Fabric (asm-commons)",
-              "type": "Library",
-              "artifact": {
-                "size": 73459,
-                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://killersafio-db56a.web.app/host/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-tree:9.7.1",
-              "name": "Fabric (asm-tree)",
-              "type": "Library",
-              "artifact": {
-                "size": 51939,
-                "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://killersafio-db56a.web.app/host/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-util:9.7.1",
-              "name": "Fabric (asm-util)",
-              "type": "Library",
-              "artifact": {
-                "size": 94519,
-                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://killersafio-db56a.web.app/host/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:sponge-mixin:0.15.3+mixin.0.8.7",
-              "name": "Fabric (sponge-mixin)",
-              "type": "Library",
-              "artifact": {
-                "size": 1494835,
-                "MD5": "a33725dd52de94c33514b6867c8d0b4b",
-                "url": "https://killersafio-db56a.web.app/host/repo/lib/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:intermediary:1.20.4",
-              "name": "Fabric (intermediary)",
-              "type": "Library",
-              "artifact": {
-                "size": 608319,
-                "MD5": "3a1cade1634c518db6147c9771686ea9",
-                "url": "https://killersafio-db56a.web.app/host/repo/lib/net/fabricmc/intermediary/1.20.4/intermediary-1.20.4.jar"
-              }
-            }
-          ]
-        },
-        {
-          "id": "com.tom:cpm:0.6.19a@jar",
-          "name": "Customizable Player Models",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2789571,
-            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/fabricmods/required/CustomPlayerModels-Fabric-1.20.4-0.6.19a.jar",
-            "MD5": "1be3c7121d3391bd52ffc05a78e688ae"
+            "size": 1327,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/appleskin.json5",
+            "MD5": "406b4584562fb60304a8adc824de0000",
+            "path": "config/appleskin.json5"
           }
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.97.2+1.20.4@jar",
-          "name": "Fabric API",
-          "type": "FabricMod",
+          "id": "collective.json5",
+          "name": "collective.json5",
+          "type": "File",
           "artifact": {
-            "size": 2187410,
-            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/fabricmods/required/fabric-api-0.97.2+1.20.4.jar",
-            "MD5": "2733c159c2f7628983a96b442ca3f823"
+            "size": 960,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/collective.json5",
+            "MD5": "0966eae411065e30c194c91f61d887d4",
+            "path": "config/collective.json5"
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.7.2+mc1.20.4@jar",
-          "name": "Iris",
-          "type": "FabricMod",
+          "id": "dynamic_fps.json",
+          "name": "dynamic_fps.json",
+          "type": "File",
           "artifact": {
-            "size": 2703697,
-            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/fabricmods/required/iris-1.7.2+mc1.20.4%20(3).jar",
-            "MD5": "fa3647d1891a719b268c636236d989c2"
+            "size": 3,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/dynamic_fps.json",
+            "MD5": "8a80554c91d9fca8acb82f023de02f11",
+            "path": "config/dynamic_fps.json"
           }
         },
         {
-          "id": "me.flashyreese.mods.sodiumextra:sodium-extra:0.5.4+mc1.20.4-build.116@jar",
-          "name": "Sodium Extra",
-          "type": "FabricMod",
+          "id": "entityculling.json",
+          "name": "entityculling.json",
+          "type": "File",
           "artifact": {
-            "size": 385665,
-            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/fabricmods/required/sodium-extra-0.5.4+mc1.20.4-build.116%20(2).jar",
-            "MD5": "a414a1b266c8e6bd22b37c72413000ff"
+            "size": 1695,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/entityculling.json",
+            "MD5": "8917e1c51d03445e63b5537a3bd33429",
+            "path": "config/entityculling.json"
           }
         },
         {
-          "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.4@jar",
-          "name": "Sodium",
-          "type": "FabricMod",
+          "id": "entity_model_features.json",
+          "name": "entity_model_features.json",
+          "type": "File",
           "artifact": {
-            "size": 949085,
-            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4%20(2).jar",
-            "MD5": "d7753a50ca37f50abb10465a9a425dac"
+            "size": 1115,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/entity_model_features.json",
+            "MD5": "2303f1f389426ed19f18c61bd68e169d",
+            "path": "config/entity_model_features.json"
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.20.4-2.5.20@jar",
-          "name": "Simple Voice Chat",
-          "type": "FabricMod",
+          "id": "entity_texture_features.json",
+          "name": "entity_texture_features.json",
+          "type": "File",
           "artifact": {
-            "size": 8136694,
-            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/fabricmods/required/voicechat-fabric-1.20.4-2.5.20.jar",
-            "MD5": "1fb99f96c970e2405c22ecf100f1ab2e"
+            "size": 1420,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/entity_texture_features.json",
+            "MD5": "70bc0a7c3e75a25a9049facdc3a0a7ea",
+            "path": "config/entity_texture_features.json"
+          }
+        },
+        {
+          "id": "etf_warnings.json",
+          "name": "etf_warnings.json",
+          "type": "File",
+          "artifact": {
+            "size": 28,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/etf_warnings.json",
+            "MD5": "b49b5603d2df29fa132f89ec91974572",
+            "path": "config/etf_warnings.json"
+          }
+        },
+        {
+          "id": "indigo-renderer.properties",
+          "name": "indigo-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/fabric/indigo-renderer.properties",
+            "MD5": "16498a8ced1a8025a6abe9b37ed4de91",
+            "path": "config/fabric/indigo-renderer.properties"
+          }
+        },
+        {
+          "id": "fabricskyboxes-config.json",
+          "name": "fabricskyboxes-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 170,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/fabricskyboxes-config.json",
+            "MD5": "284099a6533d9a4cefdb6022d7c8c984",
+            "path": "config/fabricskyboxes-config.json"
+          }
+        },
+        {
+          "id": "customizablemenus.txt",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 26,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "fe5f2f91fcc0653b93634a414aa90cd5",
+            "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "custom_gui_screens.txt",
+          "name": "custom_gui_screens.txt",
+          "type": "File",
+          "artifact": {
+            "size": 51,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/fancymenu/custom_gui_screens.txt",
+            "MD5": "106e52948415f0879c53304f50783b28",
+            "path": "config/fancymenu/custom_gui_screens.txt"
+          }
+        },
+        {
+          "id": "legacy_checklist.txt",
+          "name": "legacy_checklist.txt",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/fancymenu/legacy_checklist.txt",
+            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "path": "config/fancymenu/legacy_checklist.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1798,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/fancymenu/options.txt",
+            "MD5": "e29b5119da47bf3079bbe5424ce1753e",
+            "path": "config/fancymenu/options.txt"
+          }
+        },
+        {
+          "id": "dark.json",
+          "name": "dark.json",
+          "type": "File",
+          "artifact": {
+            "size": 4133,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/fancymenu/ui_themes/dark.json",
+            "MD5": "1fc916f1d20b24c5f0d2d138d19c49a4",
+            "path": "config/fancymenu/ui_themes/dark.json"
+          }
+        },
+        {
+          "id": "light.json",
+          "name": "light.json",
+          "type": "File",
+          "artifact": {
+            "size": 4135,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/fancymenu/ui_themes/light.json",
+            "MD5": "adfba137b3d62c50a5186a4f6523a72a",
+            "path": "config/fancymenu/ui_themes/light.json"
+          }
+        },
+        {
+          "id": "user_variables.db",
+          "name": "user_variables.db",
+          "type": "File",
+          "artifact": {
+            "size": 23,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/fancymenu/user_variables.db",
+            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
+            "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "ferritecore.mixin.properties",
+          "name": "ferritecore.mixin.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1525,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/ferritecore.mixin.properties",
+            "MD5": "bf3e6be63e300b0290cfc849beb64ede",
+            "path": "config/ferritecore.mixin.properties"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1147,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/fml.toml",
+            "MD5": "69de99a0b6537f52ae3c9c239d7f0e42",
+            "path": "config/fml.toml"
+          }
+        },
+        {
+          "id": "immediatelyfast.json",
+          "name": "immediatelyfast.json",
+          "type": "File",
+          "artifact": {
+            "size": 1060,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/immediatelyfast.json",
+            "MD5": "7b2d05a9b2f2745055edf3c8d1d0b155",
+            "path": "config/immediatelyfast.json"
+          }
+        },
+        {
+          "id": "indium-renderer.properties",
+          "name": "indium-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 116,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/indium-renderer.properties",
+            "MD5": "588c725bdce693b5a5f3763385303e75",
+            "path": "config/indium-renderer.properties"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 255,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/iris.properties",
+            "MD5": "d18ed2f7253de3507c5a7b5442aacd03",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "jei-client.ini",
+          "name": "jei-client.ini",
+          "type": "File",
+          "artifact": {
+            "size": 5703,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/jei/jei-client.ini",
+            "MD5": "9491eda7f733dc1be53d89b19b061909",
+            "path": "config/jei/jei-client.ini"
+          }
+        },
+        {
+          "id": "jei-colors.ini",
+          "name": "jei-colors.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1338,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/jei/jei-colors.ini",
+            "MD5": "54322062602d3aabb6b11455e07de765",
+            "path": "config/jei/jei-colors.ini"
+          }
+        },
+        {
+          "id": "jei-debug.ini",
+          "name": "jei-debug.ini",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/jei/jei-debug.ini",
+            "MD5": "2263f918435b98c702a73e86f186f2d1",
+            "path": "config/jei/jei-debug.ini"
+          }
+        },
+        {
+          "id": "jei-mod-id-format.ini",
+          "name": "jei-mod-id-format.ini",
+          "type": "File",
+          "artifact": {
+            "size": 463,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/jei/jei-mod-id-format.ini",
+            "MD5": "457dca8722dc66e695196c24fba7875f",
+            "path": "config/jei/jei-mod-id-format.ini"
+          }
+        },
+        {
+          "id": "de_de.local",
+          "name": "de_de.local",
+          "type": "File",
+          "artifact": {
+            "size": 369,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/konkrete/locals/de_de.local",
+            "MD5": "3aac3df2519057d2305f894c37771e30",
+            "path": "config/konkrete/locals/de_de.local"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 426,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/konkrete/locals/en_us.local",
+            "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
+            "path": "config/konkrete/locals/en_us.local"
+          }
+        },
+        {
+          "id": "pl_pl.local",
+          "name": "pl_pl.local",
+          "type": "File",
+          "artifact": {
+            "size": 313,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/konkrete/locals/pl_pl.local",
+            "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
+            "path": "config/konkrete/locals/pl_pl.local"
+          }
+        },
+        {
+          "id": "pt_br.local",
+          "name": "pt_br.local",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/konkrete/locals/pt_br.local",
+            "MD5": "2d055da094c115b94f0e4373a2e06ebe",
+            "path": "config/konkrete/locals/pt_br.local"
+          }
+        },
+        {
+          "id": "lambdynlights.toml",
+          "name": "lambdynlights.toml",
+          "type": "File",
+          "artifact": {
+            "size": 753,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/lambdynlights.toml",
+            "MD5": "815956a67aeeaefacd839111646f106b",
+            "path": "config/lambdynlights.toml"
+          }
+        },
+        {
+          "id": "lithium.properties",
+          "name": "lithium.properties",
+          "type": "File",
+          "artifact": {
+            "size": 430,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/lithium.properties",
+            "MD5": "422e0797eef9c35fe7d8ecea0ac3f567",
+            "path": "config/lithium.properties"
+          }
+        },
+        {
+          "id": "modernfix-mixins.properties",
+          "name": "modernfix-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 3422,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/modernfix-mixins.properties",
+            "MD5": "302a528d1b3446880da7b62d8b974571",
+            "path": "config/modernfix-mixins.properties"
+          }
+        },
+        {
+          "id": "moreculling.toml",
+          "name": "moreculling.toml",
+          "type": "File",
+          "artifact": {
+            "size": 555,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/moreculling.toml",
+            "MD5": "5e109226d70c38b67f82942ab7205887",
+            "path": "config/moreculling.toml"
+          }
+        },
+        {
+          "id": "notenoughanimations.json",
+          "name": "notenoughanimations.json",
+          "type": "File",
+          "artifact": {
+            "size": 2384,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/notenoughanimations.json",
+            "MD5": "7e66e4d3b3e33bab3b01f45c544af832",
+            "path": "config/notenoughanimations.json"
+          }
+        },
+        {
+          "id": "skinlayers.json",
+          "name": "skinlayers.json",
+          "type": "File",
+          "artifact": {
+            "size": 430,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/skinlayers.json",
+            "MD5": "442c83a747a9b01708fa9587880e9341",
+            "path": "config/skinlayers.json"
+          }
+        },
+        {
+          "id": "sodium-extra-options.json",
+          "name": "sodium-extra-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 1690,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/sodium-extra-options.json",
+            "MD5": "93ddeccc9010ecb026b29995eff6d6ad",
+            "path": "config/sodium-extra-options.json"
+          }
+        },
+        {
+          "id": "sodium-extra.properties",
+          "name": "sodium-extra.properties",
+          "type": "File",
+          "artifact": {
+            "size": 360,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/sodium-extra.properties",
+            "MD5": "72b9d6dd6ada7b00ef334ee176054dbf",
+            "path": "config/sodium-extra.properties"
+          }
+        },
+        {
+          "id": "sodium-fingerprint.json",
+          "name": "sodium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/sodium-fingerprint.json",
+            "MD5": "f0dda5755a9e53bd5abb16bc04b97ea6",
+            "path": "config/sodium-fingerprint.json"
+          }
+        },
+        {
+          "id": "sodium-mixins.properties",
+          "name": "sodium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 265,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/sodium-mixins.properties",
+            "MD5": "456d99888369486f42d6ea7f70294170",
+            "path": "config/sodium-mixins.properties"
+          }
+        },
+        {
+          "id": "sodium-options.json",
+          "name": "sodium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 632,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/sodium-options.json",
+            "MD5": "0526655acb6938560728d66ecb98fc90",
+            "path": "config/sodium-options.json"
+          }
+        },
+        {
+          "id": "translations.properties",
+          "name": "translations.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1133,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/voicechat/translations.properties",
+            "MD5": "3847ec6998814d22e66360d37201fcc9",
+            "path": "config/voicechat/translations.properties"
+          }
+        },
+        {
+          "id": "voicechat-client.properties",
+          "name": "voicechat-client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 3810,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/voicechat/voicechat-client.properties",
+            "MD5": "856cb75627cf45678265ac2d8f390747",
+            "path": "config/voicechat/voicechat-client.properties"
+          }
+        },
+        {
+          "id": "voicechat-server.properties",
+          "name": "voicechat-server.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1861,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/voicechat/voicechat-server.properties",
+            "MD5": "9e02b1991fd629ef1bb5188531ab3fd6",
+            "path": "config/voicechat/voicechat-server.properties"
+          }
+        },
+        {
+          "id": "voicechat-volumes.properties",
+          "name": "voicechat-volumes.properties",
+          "type": "File",
+          "artifact": {
+            "size": 37,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/voicechat/voicechat-volumes.properties",
+            "MD5": "fcb38654c898989fdf9b82707c3ee2f5",
+            "path": "config/voicechat/voicechat-volumes.properties"
+          }
+        },
+        {
+          "id": "yacl.json5",
+          "name": "yacl.json5",
+          "type": "File",
+          "artifact": {
+            "size": 35,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/yacl.json5",
+            "MD5": "81d542abb72c4750c7218e0d975e3368",
+            "path": "config/yacl.json5"
+          }
+        },
+        {
+          "id": "zoomify.json",
+          "name": "zoomify.json",
+          "type": "File",
+          "artifact": {
+            "size": 713,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/config/zoomify.json",
+            "MD5": "9724d512b38a85f4e133cf9e5dba357f",
+            "path": "config/zoomify.json"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4857,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/options.txt",
+            "MD5": "9a563574667a192858c0811a5a1bdca9",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+          "name": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+          "type": "File",
+          "artifact": {
+            "size": 321871,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/-1.21.2%20Fresh%20Moves%20v3.1%20(With%20Animated%20Eyes).zip",
+            "MD5": "9425263fea042911f13a1482f4c3f436",
+            "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
+          }
+        },
+        {
+          "id": "Default-Dark-Mode-1.20.2+-2024.6.0.zip",
+          "name": "Default-Dark-Mode-1.20.2+-2024.6.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 750624,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/Default-Dark-Mode-1.20.2+-2024.6.0.zip",
+            "MD5": "e2985a7582743b76f5157127d7bcf025",
+            "path": "resourcepacks/Default-Dark-Mode-1.20.2+-2024.6.0.zip"
+          }
+        },
+        {
+          "id": "Dramatic Skys Demo 1.5.3.32.zip",
+          "name": "Dramatic Skys Demo 1.5.3.32.zip",
+          "type": "File",
+          "artifact": {
+            "size": 11383940,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/Dramatic%20Skys%20Demo%201.5.3.32.zip",
+            "MD5": "2cf6e142533e40153989c117cbbdf169",
+            "path": "resourcepacks/Dramatic Skys Demo 1.5.3.32.zip"
+          }
+        },
+        {
+          "id": "FreshAnimations_v1.9.2.zip",
+          "name": "FreshAnimations_v1.9.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 516256,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/FreshAnimations_v1.9.2.zip",
+            "MD5": "ebdaffde1a25273994c74b5d9ec21e1f",
+            "path": "resourcepacks/FreshAnimations_v1.9.2.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.4.zip",
+          "name": "ComplementaryReimagined_r5.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 452405,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/shaderpacks/ComplementaryReimagined_r5.4.zip",
+            "MD5": "1a67030845ad123f56a3b5f6d8fb9b7c",
+            "path": "shaderpacks/ComplementaryReimagined_r5.4.zip"
           }
         }
       ]
