@@ -9,9 +9,9 @@
   "servers": [
     {
       "id": "MinecraftApocalipse-1.20.4",
-      "name": "Minecraft: Apocalipse (Minecraft 1.20.4)",
-      "description": "Minecraft: Apocalipse Running Minecraft 1.20.4",
-      "icon": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/pack.png",
+      "name": "MinecraftApocalipse (Minecraft 1.20.4)",
+      "description": "MinecraftApocalipse Running Minecraft 1.20.4",
+      "icon": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/icon.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.4",
@@ -582,6 +582,2558 @@
             "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/FreshAnimations_v1.9.2.zip",
             "MD5": "ebdaffde1a25273994c74b5d9ec21e1f",
             "path": "resourcepacks/FreshAnimations_v1.9.2.zip"
+          }
+        },
+        {
+          "id": ".DS_Store",
+          "name": ".DS_Store",
+          "type": "File",
+          "artifact": {
+            "size": 6148,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/ambient/.DS_Store",
+            "MD5": "85cc606605b0baa310ca9217089b5dbb",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/ambient/.DS_Store"
+          }
+        },
+        {
+          "id": "rain1.ogg",
+          "name": "rain1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 66742,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/ambient/weather/rain1.ogg",
+            "MD5": "64dbca8d15107744c3018d40b6a3d8b6",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/ambient/weather/rain1.ogg"
+          }
+        },
+        {
+          "id": "rain2.ogg",
+          "name": "rain2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 66742,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/ambient/weather/rain2.ogg",
+            "MD5": "64dbca8d15107744c3018d40b6a3d8b6",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/ambient/weather/rain2.ogg"
+          }
+        },
+        {
+          "id": "rain3.ogg",
+          "name": "rain3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 66742,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/ambient/weather/rain3.ogg",
+            "MD5": "64dbca8d15107744c3018d40b6a3d8b6",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/ambient/weather/rain3.ogg"
+          }
+        },
+        {
+          "id": "rain4.ogg",
+          "name": "rain4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 53485,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/ambient/weather/rain4.ogg",
+            "MD5": "5353bf517030e1f8017820c7677a8262",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/ambient/weather/rain4.ogg"
+          }
+        },
+        {
+          "id": "rain4.ogg.sfk",
+          "name": "rain4.ogg.sfk",
+          "type": "File",
+          "artifact": {
+            "size": 5096,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/ambient/weather/rain4.ogg.sfk",
+            "MD5": "62fc4983604691c2270a79ad95ea65fd",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/ambient/weather/rain4.ogg.sfk"
+          }
+        },
+        {
+          "id": "thunder1.ogg",
+          "name": "thunder1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 39087,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/ambient/weather/thunder1.ogg",
+            "MD5": "247fcaccef49ceee0c21056503273b18",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/ambient/weather/thunder1.ogg"
+          }
+        },
+        {
+          "id": "thunder2.ogg",
+          "name": "thunder2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 41600,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/ambient/weather/thunder2.ogg",
+            "MD5": "56af214428e95354a4ca7e5beedb3b93",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/ambient/weather/thunder2.ogg"
+          }
+        },
+        {
+          "id": "thunder3.ogg",
+          "name": "thunder3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 43354,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/ambient/weather/thunder3.ogg",
+            "MD5": "104485c7ae4618810ba56871a567a8f1",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/ambient/weather/thunder3.ogg"
+          }
+        },
+        {
+          "id": "brew1.ogg",
+          "name": "brew1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 4302,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/brewing_stand/brew1.ogg",
+            "MD5": "c20a600263c77ac178257c62c14fbcf6",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/brewing_stand/brew1.ogg"
+          }
+        },
+        {
+          "id": "brew2.ogg",
+          "name": "brew2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 4302,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/brewing_stand/brew2.ogg",
+            "MD5": "c20a600263c77ac178257c62c14fbcf6",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/brewing_stand/brew2.ogg"
+          }
+        },
+        {
+          "id": "close.ogg",
+          "name": "close.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/chest/close.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/chest/close.ogg"
+          }
+        },
+        {
+          "id": "close2.ogg",
+          "name": "close2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/chest/close2.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/chest/close2.ogg"
+          }
+        },
+        {
+          "id": "close3.ogg",
+          "name": "close3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/chest/close3.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/chest/close3.ogg"
+          }
+        },
+        {
+          "id": "open.ogg",
+          "name": "open.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/chest/open.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/chest/open.ogg"
+          }
+        },
+        {
+          "id": "enchant1.ogg",
+          "name": "enchant1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/enchantment_table/enchant1.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/enchantment_table/enchant1.ogg"
+          }
+        },
+        {
+          "id": "enchant2.ogg",
+          "name": "enchant2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/enchantment_table/enchant2.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/enchantment_table/enchant2.ogg"
+          }
+        },
+        {
+          "id": "enchant3.ogg",
+          "name": "enchant3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/enchantment_table/enchant3.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/enchantment_table/enchant3.ogg"
+          }
+        },
+        {
+          "id": "close1.ogg",
+          "name": "close1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/fence_gate/close1.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/fence_gate/close1.ogg"
+          }
+        },
+        {
+          "id": "close2.ogg",
+          "name": "close2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/fence_gate/close2.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/fence_gate/close2.ogg"
+          }
+        },
+        {
+          "id": "open1.ogg",
+          "name": "open1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/fence_gate/open1.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/fence_gate/open1.ogg"
+          }
+        },
+        {
+          "id": "open2.ogg",
+          "name": "open2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/fence_gate/open2.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/fence_gate/open2.ogg"
+          }
+        },
+        {
+          "id": "fire_crackle1.ogg",
+          "name": "fire_crackle1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 26141,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/furnace/fire_crackle1.ogg",
+            "MD5": "e80c4e415f8ceac1c75ef001e6b00664",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/furnace/fire_crackle1.ogg"
+          }
+        },
+        {
+          "id": "fire_crackle2.ogg",
+          "name": "fire_crackle2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 24501,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/furnace/fire_crackle2.ogg",
+            "MD5": "5df50dac34ab70feee3fdfed3f680ed1",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/furnace/fire_crackle2.ogg"
+          }
+        },
+        {
+          "id": "fire_crackle3.ogg",
+          "name": "fire_crackle3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 21737,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/furnace/fire_crackle3.ogg",
+            "MD5": "eccf9e4bed22d8fe5ef1cc340e916174",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/furnace/fire_crackle3.ogg"
+          }
+        },
+        {
+          "id": "fire_crackle4.ogg",
+          "name": "fire_crackle4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 21970,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/furnace/fire_crackle4.ogg",
+            "MD5": "c6adfc45c2b3b3c261354ceeeee7f850",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/furnace/fire_crackle4.ogg"
+          }
+        },
+        {
+          "id": "fire_crackle5.ogg",
+          "name": "fire_crackle5.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 25390,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/furnace/fire_crackle5.ogg",
+            "MD5": "1b9ccec1f53f7743e143a437f5ac4f80",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/furnace/fire_crackle5.ogg"
+          }
+        },
+        {
+          "id": "close1.ogg",
+          "name": "close1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_door/close1.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_door/close1.ogg"
+          }
+        },
+        {
+          "id": "close2.ogg",
+          "name": "close2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_door/close2.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_door/close2.ogg"
+          }
+        },
+        {
+          "id": "close3.ogg",
+          "name": "close3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_door/close3.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_door/close3.ogg"
+          }
+        },
+        {
+          "id": "close4.ogg",
+          "name": "close4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_door/close4.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_door/close4.ogg"
+          }
+        },
+        {
+          "id": "open1.ogg",
+          "name": "open1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_door/open1.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_door/open1.ogg"
+          }
+        },
+        {
+          "id": "open2.ogg",
+          "name": "open2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_door/open2.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_door/open2.ogg"
+          }
+        },
+        {
+          "id": "open3.ogg",
+          "name": "open3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_door/open3.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_door/open3.ogg"
+          }
+        },
+        {
+          "id": "open4.ogg",
+          "name": "open4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_door/open4.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_door/open4.ogg"
+          }
+        },
+        {
+          "id": "close1.ogg",
+          "name": "close1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_trapdoor/close1.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_trapdoor/close1.ogg"
+          }
+        },
+        {
+          "id": "close2.ogg",
+          "name": "close2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_trapdoor/close2.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_trapdoor/close2.ogg"
+          }
+        },
+        {
+          "id": "close3.ogg",
+          "name": "close3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_trapdoor/close3.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_trapdoor/close3.ogg"
+          }
+        },
+        {
+          "id": "close4.ogg",
+          "name": "close4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_trapdoor/close4.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_trapdoor/close4.ogg"
+          }
+        },
+        {
+          "id": "open1.ogg",
+          "name": "open1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_trapdoor/open1.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_trapdoor/open1.ogg"
+          }
+        },
+        {
+          "id": "open2.ogg",
+          "name": "open2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_trapdoor/open2.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_trapdoor/open2.ogg"
+          }
+        },
+        {
+          "id": "open3.ogg",
+          "name": "open3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_trapdoor/open3.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_trapdoor/open3.ogg"
+          }
+        },
+        {
+          "id": "open4.ogg",
+          "name": "open4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/iron_trapdoor/open4.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/iron_trapdoor/open4.ogg"
+          }
+        },
+        {
+          "id": "charge1.ogg",
+          "name": "charge1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 21832,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/respawn_anchor/charge1.ogg",
+            "MD5": "4cc32e30f4f2131247218ce14b5b6e2f",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/respawn_anchor/charge1.ogg"
+          }
+        },
+        {
+          "id": "charge2.ogg",
+          "name": "charge2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 21832,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/respawn_anchor/charge2.ogg",
+            "MD5": "f55cf9e5b54f514235b53898ecacc7f8",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/respawn_anchor/charge2.ogg"
+          }
+        },
+        {
+          "id": "charge3.ogg",
+          "name": "charge3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 21832,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/respawn_anchor/charge3.ogg",
+            "MD5": "f0c90ec3cf9508a6a1b002d750288baf",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/respawn_anchor/charge3.ogg"
+          }
+        },
+        {
+          "id": "place1.ogg",
+          "name": "place1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 4302,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/waterlily/place1.ogg",
+            "MD5": "c20a600263c77ac178257c62c14fbcf6",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/waterlily/place1.ogg"
+          }
+        },
+        {
+          "id": "place2.ogg",
+          "name": "place2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 4302,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/waterlily/place2.ogg",
+            "MD5": "c20a600263c77ac178257c62c14fbcf6",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/waterlily/place2.ogg"
+          }
+        },
+        {
+          "id": "place3.ogg",
+          "name": "place3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 4302,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/waterlily/place3.ogg",
+            "MD5": "c20a600263c77ac178257c62c14fbcf6",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/waterlily/place3.ogg"
+          }
+        },
+        {
+          "id": "place4.ogg",
+          "name": "place4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 4302,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/waterlily/place4.ogg",
+            "MD5": "c20a600263c77ac178257c62c14fbcf6",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/waterlily/place4.ogg"
+          }
+        },
+        {
+          "id": "close.ogg",
+          "name": "close.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_door/close.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_door/close.ogg"
+          }
+        },
+        {
+          "id": "close2.ogg",
+          "name": "close2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_door/close2.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_door/close2.ogg"
+          }
+        },
+        {
+          "id": "close3.ogg",
+          "name": "close3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_door/close3.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_door/close3.ogg"
+          }
+        },
+        {
+          "id": "close4.ogg",
+          "name": "close4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_door/close4.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_door/close4.ogg"
+          }
+        },
+        {
+          "id": "open.ogg",
+          "name": "open.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_door/open.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_door/open.ogg"
+          }
+        },
+        {
+          "id": "open2.ogg",
+          "name": "open2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_door/open2.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_door/open2.ogg"
+          }
+        },
+        {
+          "id": "open3.ogg",
+          "name": "open3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_door/open3.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_door/open3.ogg"
+          }
+        },
+        {
+          "id": "open4.ogg",
+          "name": "open4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_door/open4.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_door/open4.ogg"
+          }
+        },
+        {
+          "id": "close1.ogg",
+          "name": "close1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_trapdoor/close1.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_trapdoor/close1.ogg"
+          }
+        },
+        {
+          "id": "close2.ogg",
+          "name": "close2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_trapdoor/close2.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_trapdoor/close2.ogg"
+          }
+        },
+        {
+          "id": "close3.ogg",
+          "name": "close3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_trapdoor/close3.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_trapdoor/close3.ogg"
+          }
+        },
+        {
+          "id": "close4.ogg",
+          "name": "close4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_trapdoor/close4.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_trapdoor/close4.ogg"
+          }
+        },
+        {
+          "id": "open1.ogg",
+          "name": "open1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_trapdoor/open1.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_trapdoor/open1.ogg"
+          }
+        },
+        {
+          "id": "open2.ogg",
+          "name": "open2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_trapdoor/open2.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_trapdoor/open2.ogg"
+          }
+        },
+        {
+          "id": "open3.ogg",
+          "name": "open3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_trapdoor/open3.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_trapdoor/open3.ogg"
+          }
+        },
+        {
+          "id": "open4.ogg",
+          "name": "open4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_trapdoor/open4.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_trapdoor/open4.ogg"
+          }
+        },
+        {
+          "id": "open5.ogg",
+          "name": "open5.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/block/wooden_trapdoor/open5.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/block/wooden_trapdoor/open5.ogg"
+          }
+        },
+        {
+          "id": "fallbig.ogg",
+          "name": "fallbig.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 6079,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/damage/fallbig.ogg",
+            "MD5": "60840a25e0c787a1e8c5af51a86d38c5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/damage/fallbig.ogg"
+          }
+        },
+        {
+          "id": "fallsmall.ogg",
+          "name": "fallsmall.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 5232,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/damage/fallsmall.ogg",
+            "MD5": "474554638bf5b1226e78178320175406",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/damage/fallsmall.ogg"
+          }
+        },
+        {
+          "id": "hit1.ogg",
+          "name": "hit1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 23040,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/damage/hit1.ogg",
+            "MD5": "f7b807dac1c5a44f697ccaf6d7fbf9f8",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/damage/hit1.ogg"
+          }
+        },
+        {
+          "id": "hit2.ogg",
+          "name": "hit2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 23040,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/damage/hit2.ogg",
+            "MD5": "f7b807dac1c5a44f697ccaf6d7fbf9f8",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/damage/hit2.ogg"
+          }
+        },
+        {
+          "id": "hit3.ogg",
+          "name": "hit3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 23040,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/damage/hit3.ogg",
+            "MD5": "f7b807dac1c5a44f697ccaf6d7fbf9f8",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/damage/hit3.ogg"
+          }
+        },
+        {
+          "id": "hit4.ogg",
+          "name": "hit4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 23040,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/damage/hit4.ogg",
+            "MD5": "f7b807dac1c5a44f697ccaf6d7fbf9f8",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/damage/hit4.ogg"
+          }
+        },
+        {
+          "id": "cloth1.ogg",
+          "name": "cloth1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 7935,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/dig/cloth1.ogg",
+            "MD5": "7357c7c2cdb8fd0270ce02267bbd509e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/dig/cloth1.ogg"
+          }
+        },
+        {
+          "id": "cloth2.ogg",
+          "name": "cloth2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 7406,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/dig/cloth2.ogg",
+            "MD5": "c8ffaa55ff5934e73e3a84be8dc067f1",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/dig/cloth2.ogg"
+          }
+        },
+        {
+          "id": "cloth3.ogg",
+          "name": "cloth3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 7649,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/dig/cloth3.ogg",
+            "MD5": "16099458de9373e8c018d45cd032d8fc",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/dig/cloth3.ogg"
+          }
+        },
+        {
+          "id": "cloth4.ogg",
+          "name": "cloth4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 6660,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/dig/cloth4.ogg",
+            "MD5": "96f6539b4d7129115caca756cca6cdc6",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/dig/cloth4.ogg"
+          }
+        },
+        {
+          "id": "stone1.ogg",
+          "name": "stone1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 5530,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/dig/stone1.ogg",
+            "MD5": "398c6098f9d688bd03265af4d65adb16",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/dig/stone1.ogg"
+          }
+        },
+        {
+          "id": "stone2.ogg",
+          "name": "stone2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 5231,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/dig/stone2.ogg",
+            "MD5": "5e98de2f6840b4105c5e67938733d75d",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/dig/stone2.ogg"
+          }
+        },
+        {
+          "id": "stone3.ogg",
+          "name": "stone3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 5187,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/dig/stone3.ogg",
+            "MD5": "c5788dff204e04c7c766541a86b3d373",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/dig/stone3.ogg"
+          }
+        },
+        {
+          "id": "stone4.ogg",
+          "name": "stone4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 5530,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/dig/stone4.ogg",
+            "MD5": "398c6098f9d688bd03265af4d65adb16",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/dig/stone4.ogg"
+          }
+        },
+        {
+          "id": "stone5.ogg",
+          "name": "stone5.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 5530,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/dig/stone5.ogg",
+            "MD5": "398c6098f9d688bd03265af4d65adb16",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/dig/stone5.ogg"
+          }
+        },
+        {
+          "id": "wood1.ogg",
+          "name": "wood1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 7838,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/dig/wood1.ogg",
+            "MD5": "872660dce27fd7413ec8d57ebcfef238",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/dig/wood1.ogg"
+          }
+        },
+        {
+          "id": "wood2.ogg",
+          "name": "wood2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 6816,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/dig/wood2.ogg",
+            "MD5": "c4ec3aa218c5a1535594672360287d43",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/dig/wood2.ogg"
+          }
+        },
+        {
+          "id": "wood3.ogg",
+          "name": "wood3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 8587,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/dig/wood3.ogg",
+            "MD5": "0b478e2b9d96318bdbfe01cba88eeed1",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/dig/wood3.ogg"
+          }
+        },
+        {
+          "id": "wood4.ogg",
+          "name": "wood4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 7537,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/dig/wood4.ogg",
+            "MD5": "9affbef3728f7fcf180b2b3fde8d0d62",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/dig/wood4.ogg"
+          }
+        },
+        {
+          "id": "crit1.ogg",
+          "name": "crit1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 11028,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/crit1.ogg",
+            "MD5": "9991d07ca56f249bf723f60419402246",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/crit1.ogg"
+          }
+        },
+        {
+          "id": "crit2.ogg",
+          "name": "crit2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 11028,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/crit2.ogg",
+            "MD5": "9991d07ca56f249bf723f60419402246",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/crit2.ogg"
+          }
+        },
+        {
+          "id": "crit3.ogg",
+          "name": "crit3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 11028,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/crit3.ogg",
+            "MD5": "9991d07ca56f249bf723f60419402246",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/crit3.ogg"
+          }
+        },
+        {
+          "id": "knockback1.ogg",
+          "name": "knockback1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 34478,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/knockback1.ogg",
+            "MD5": "5abbfbd7506e6d47b9b76402d59f283c",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/knockback1.ogg"
+          }
+        },
+        {
+          "id": "knockback2.ogg",
+          "name": "knockback2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 34478,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/knockback2.ogg",
+            "MD5": "5abbfbd7506e6d47b9b76402d59f283c",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/knockback2.ogg"
+          }
+        },
+        {
+          "id": "knockback3.ogg",
+          "name": "knockback3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 34478,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/knockback3.ogg",
+            "MD5": "5abbfbd7506e6d47b9b76402d59f283c",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/knockback3.ogg"
+          }
+        },
+        {
+          "id": "knockback4.ogg",
+          "name": "knockback4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 34478,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/knockback4.ogg",
+            "MD5": "5abbfbd7506e6d47b9b76402d59f283c",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/knockback4.ogg"
+          }
+        },
+        {
+          "id": "strong1.ogg",
+          "name": "strong1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 21617,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/strong1.ogg",
+            "MD5": "5e94cf2de8e02fecab5cb1ba9c929b25",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/strong1.ogg"
+          }
+        },
+        {
+          "id": "strong2.ogg",
+          "name": "strong2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 21617,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/strong2.ogg",
+            "MD5": "5e94cf2de8e02fecab5cb1ba9c929b25",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/strong2.ogg"
+          }
+        },
+        {
+          "id": "strong3.ogg",
+          "name": "strong3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 21617,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/strong3.ogg",
+            "MD5": "5e94cf2de8e02fecab5cb1ba9c929b25",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/strong3.ogg"
+          }
+        },
+        {
+          "id": "strong4.ogg",
+          "name": "strong4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 21617,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/strong4.ogg",
+            "MD5": "5e94cf2de8e02fecab5cb1ba9c929b25",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/strong4.ogg"
+          }
+        },
+        {
+          "id": "strong5.ogg",
+          "name": "strong5.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 21617,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/strong5.ogg",
+            "MD5": "5e94cf2de8e02fecab5cb1ba9c929b25",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/strong5.ogg"
+          }
+        },
+        {
+          "id": "strong6.ogg",
+          "name": "strong6.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 21617,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/strong6.ogg",
+            "MD5": "5e94cf2de8e02fecab5cb1ba9c929b25",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/strong6.ogg"
+          }
+        },
+        {
+          "id": "weak1.ogg",
+          "name": "weak1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 11805,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/weak1.ogg",
+            "MD5": "d9c05a60ef4498b25aa9acd54233a6c7",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/weak1.ogg"
+          }
+        },
+        {
+          "id": "weak2.ogg",
+          "name": "weak2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 11805,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/weak2.ogg",
+            "MD5": "d9c05a60ef4498b25aa9acd54233a6c7",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/weak2.ogg"
+          }
+        },
+        {
+          "id": "weak3.ogg",
+          "name": "weak3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 11805,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/weak3.ogg",
+            "MD5": "d9c05a60ef4498b25aa9acd54233a6c7",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/weak3.ogg"
+          }
+        },
+        {
+          "id": "weak4.ogg",
+          "name": "weak4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 11805,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/entity/player/attack/weak4.ogg",
+            "MD5": "d9c05a60ef4498b25aa9acd54233a6c7",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/entity/player/attack/weak4.ogg"
+          }
+        },
+        {
+          "id": "fire.ogg",
+          "name": "fire.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 131312,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/fire/fire.ogg",
+            "MD5": "bd695c59e0dfab7460eab29083823f5e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/fire/fire.ogg"
+          }
+        },
+        {
+          "id": ".DS_Store",
+          "name": ".DS_Store",
+          "type": "File",
+          "artifact": {
+            "size": 6148,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/fireworks/.DS_Store",
+            "MD5": "194577a7e20bdcc7afbb718f502c134c",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/fireworks/.DS_Store"
+          }
+        },
+        {
+          "id": ".DS_Store",
+          "name": ".DS_Store",
+          "type": "File",
+          "artifact": {
+            "size": 6148,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/.DS_Store",
+            "MD5": "148d6f9639a74fef55b0e5314aa0a030",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/.DS_Store"
+          }
+        },
+        {
+          "id": "equip_chain1.ogg",
+          "name": "equip_chain1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_chain1.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_chain1.ogg"
+          }
+        },
+        {
+          "id": "equip_chain2.ogg",
+          "name": "equip_chain2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_chain2.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_chain2.ogg"
+          }
+        },
+        {
+          "id": "equip_chain3.ogg",
+          "name": "equip_chain3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_chain3.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_chain3.ogg"
+          }
+        },
+        {
+          "id": "equip_chain4.ogg",
+          "name": "equip_chain4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_chain4.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_chain4.ogg"
+          }
+        },
+        {
+          "id": "equip_chain5.ogg",
+          "name": "equip_chain5.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_chain5.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_chain5.ogg"
+          }
+        },
+        {
+          "id": "equip_chain6.ogg",
+          "name": "equip_chain6.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_chain6.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_chain6.ogg"
+          }
+        },
+        {
+          "id": "equip_diamond1.ogg",
+          "name": "equip_diamond1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_diamond1.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_diamond1.ogg"
+          }
+        },
+        {
+          "id": "equip_diamond2.ogg",
+          "name": "equip_diamond2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_diamond2.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_diamond2.ogg"
+          }
+        },
+        {
+          "id": "equip_diamond3.ogg",
+          "name": "equip_diamond3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_diamond3.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_diamond3.ogg"
+          }
+        },
+        {
+          "id": "equip_diamond4.ogg",
+          "name": "equip_diamond4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_diamond4.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_diamond4.ogg"
+          }
+        },
+        {
+          "id": "equip_diamond5.ogg",
+          "name": "equip_diamond5.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_diamond5.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_diamond5.ogg"
+          }
+        },
+        {
+          "id": "equip_diamond6.ogg",
+          "name": "equip_diamond6.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_diamond6.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_diamond6.ogg"
+          }
+        },
+        {
+          "id": "equip_generic1.ogg",
+          "name": "equip_generic1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_generic1.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_generic1.ogg"
+          }
+        },
+        {
+          "id": "equip_generic2.ogg",
+          "name": "equip_generic2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_generic2.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_generic2.ogg"
+          }
+        },
+        {
+          "id": "equip_generic3.ogg",
+          "name": "equip_generic3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_generic3.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_generic3.ogg"
+          }
+        },
+        {
+          "id": "equip_generic4.ogg",
+          "name": "equip_generic4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_generic4.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_generic4.ogg"
+          }
+        },
+        {
+          "id": "equip_generic5.ogg",
+          "name": "equip_generic5.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_generic5.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_generic5.ogg"
+          }
+        },
+        {
+          "id": "equip_generic6.ogg",
+          "name": "equip_generic6.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_generic6.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_generic6.ogg"
+          }
+        },
+        {
+          "id": "equip_gold1.ogg",
+          "name": "equip_gold1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_gold1.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_gold1.ogg"
+          }
+        },
+        {
+          "id": "equip_gold2.ogg",
+          "name": "equip_gold2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_gold2.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_gold2.ogg"
+          }
+        },
+        {
+          "id": "equip_gold3.ogg",
+          "name": "equip_gold3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_gold3.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_gold3.ogg"
+          }
+        },
+        {
+          "id": "equip_gold4.ogg",
+          "name": "equip_gold4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_gold4.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_gold4.ogg"
+          }
+        },
+        {
+          "id": "equip_gold5.ogg",
+          "name": "equip_gold5.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_gold5.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_gold5.ogg"
+          }
+        },
+        {
+          "id": "equip_gold6.ogg",
+          "name": "equip_gold6.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_gold6.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_gold6.ogg"
+          }
+        },
+        {
+          "id": "equip_iron1.ogg",
+          "name": "equip_iron1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_iron1.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_iron1.ogg"
+          }
+        },
+        {
+          "id": "equip_iron2.ogg",
+          "name": "equip_iron2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_iron2.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_iron2.ogg"
+          }
+        },
+        {
+          "id": "equip_iron3.ogg",
+          "name": "equip_iron3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_iron3.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_iron3.ogg"
+          }
+        },
+        {
+          "id": "equip_iron4.ogg",
+          "name": "equip_iron4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_iron4.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_iron4.ogg"
+          }
+        },
+        {
+          "id": "equip_iron5.ogg",
+          "name": "equip_iron5.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_iron5.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_iron5.ogg"
+          }
+        },
+        {
+          "id": "equip_iron6.ogg",
+          "name": "equip_iron6.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_iron6.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_iron6.ogg"
+          }
+        },
+        {
+          "id": "equip_leather1.ogg",
+          "name": "equip_leather1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_leather1.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_leather1.ogg"
+          }
+        },
+        {
+          "id": "equip_leather2.ogg",
+          "name": "equip_leather2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_leather2.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_leather2.ogg"
+          }
+        },
+        {
+          "id": "equip_leather3.ogg",
+          "name": "equip_leather3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_leather3.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_leather3.ogg"
+          }
+        },
+        {
+          "id": "equip_leather4.ogg",
+          "name": "equip_leather4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_leather4.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_leather4.ogg"
+          }
+        },
+        {
+          "id": "equip_leather5.ogg",
+          "name": "equip_leather5.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_leather5.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_leather5.ogg"
+          }
+        },
+        {
+          "id": "equip_leather6 - Copie.ogg",
+          "name": "equip_leather6 - Copie.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_leather6%20-%20Copie.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_leather6 - Copie.ogg"
+          }
+        },
+        {
+          "id": "equip_leather6.ogg",
+          "name": "equip_leather6.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/armor/equip_leather6.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/armor/equip_leather6.ogg"
+          }
+        },
+        {
+          "id": "fill4.ogg",
+          "name": "fill4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/bottle/fill4.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/bottle/fill4.ogg"
+          }
+        },
+        {
+          "id": "empty1.ogg",
+          "name": "empty1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/bucket/empty1.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/bucket/empty1.ogg"
+          }
+        },
+        {
+          "id": "empty2.ogg",
+          "name": "empty2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/bucket/empty2.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/bucket/empty2.ogg"
+          }
+        },
+        {
+          "id": "empty3.ogg",
+          "name": "empty3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/bucket/empty3.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/bucket/empty3.ogg"
+          }
+        },
+        {
+          "id": "empty_lava1.ogg",
+          "name": "empty_lava1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/bucket/empty_lava1.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/bucket/empty_lava1.ogg"
+          }
+        },
+        {
+          "id": "empty_lava2.ogg",
+          "name": "empty_lava2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/bucket/empty_lava2.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/bucket/empty_lava2.ogg"
+          }
+        },
+        {
+          "id": "empty_lava3.ogg",
+          "name": "empty_lava3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/bucket/empty_lava3.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/bucket/empty_lava3.ogg"
+          }
+        },
+        {
+          "id": "fill1.ogg",
+          "name": "fill1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/bucket/fill1.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/bucket/fill1.ogg"
+          }
+        },
+        {
+          "id": "fill2.ogg",
+          "name": "fill2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/bucket/fill2.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/bucket/fill2.ogg"
+          }
+        },
+        {
+          "id": "fill3.ogg",
+          "name": "fill3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/bucket/fill3.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/bucket/fill3.ogg"
+          }
+        },
+        {
+          "id": "fill_lava1.ogg",
+          "name": "fill_lava1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/bucket/fill_lava1.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/bucket/fill_lava1.ogg"
+          }
+        },
+        {
+          "id": "fill_lava2.ogg",
+          "name": "fill_lava2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/bucket/fill_lava2.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/bucket/fill_lava2.ogg"
+          }
+        },
+        {
+          "id": "fill_lava3.ogg",
+          "name": "fill_lava3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/bucket/fill_lava3.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/bucket/fill_lava3.ogg"
+          }
+        },
+        {
+          "id": ".DS_Store",
+          "name": ".DS_Store",
+          "type": "File",
+          "artifact": {
+            "size": 6148,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/elytra/.DS_Store",
+            "MD5": "7579d56904c6ed7a409586ac30e1f228",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/elytra/.DS_Store"
+          }
+        },
+        {
+          "id": "block1.ogg",
+          "name": "block1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/shield/block1.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/shield/block1.ogg"
+          }
+        },
+        {
+          "id": "block2.ogg",
+          "name": "block2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/shield/block2.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/shield/block2.ogg"
+          }
+        },
+        {
+          "id": "block3.ogg",
+          "name": "block3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/shield/block3.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/shield/block3.ogg"
+          }
+        },
+        {
+          "id": "block4.ogg",
+          "name": "block4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/shield/block4.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/shield/block4.ogg"
+          }
+        },
+        {
+          "id": "block5.ogg",
+          "name": "block5.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 20679,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/shield/block5.ogg",
+            "MD5": "232c0de23cea4a6af416950c423a275e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/shield/block5.ogg"
+          }
+        },
+        {
+          "id": ".DS_Store",
+          "name": ".DS_Store",
+          "type": "File",
+          "artifact": {
+            "size": 6148,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/totem/.DS_Store",
+            "MD5": "f3c32e1f0506c3484df9903aaa1ca479",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/totem/.DS_Store"
+          }
+        },
+        {
+          "id": "use_totem.ogg",
+          "name": "use_totem.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 39458,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/item/totem/use_totem.ogg",
+            "MD5": "5213c609f4fb22d40239143db3e35f26",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/item/totem/use_totem.ogg"
+          }
+        },
+        {
+          "id": "say1.ogg",
+          "name": "say1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 25783,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/mob/sheep/say1.ogg",
+            "MD5": "3ef83a1ac2fd2ad29eacb00b9097638c",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/mob/sheep/say1.ogg"
+          }
+        },
+        {
+          "id": "say2.ogg",
+          "name": "say2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 29412,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/mob/sheep/say2.ogg",
+            "MD5": "e7ad527614289461589113060f605f39",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/mob/sheep/say2.ogg"
+          }
+        },
+        {
+          "id": "say3.ogg",
+          "name": "say3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 23417,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/mob/sheep/say3.ogg",
+            "MD5": "02e2f2d5086f861c889735a1bb203e27",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/mob/sheep/say3.ogg"
+          }
+        },
+        {
+          "id": "death.ogg",
+          "name": "death.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 139127,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/mob/wither/death.ogg",
+            "MD5": "d81a571456645c8e007b6f7c2bd82b2c",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/mob/wither/death.ogg"
+          }
+        },
+        {
+          "id": "spawn.ogg",
+          "name": "spawn.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 198457,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/mob/wither/spawn.ogg",
+            "MD5": "180f178101ce4de230c434304af61bcd",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/mob/wither/spawn.ogg"
+          }
+        },
+        {
+          "id": "remedy.ogg",
+          "name": "remedy.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 94289,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/mob/zombie/remedy.ogg",
+            "MD5": "669e2901cb4b47ffae5b676c2830486d",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/mob/zombie/remedy.ogg"
+          }
+        },
+        {
+          "id": "pling.ogg",
+          "name": "pling.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 8048,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/note/pling.ogg",
+            "MD5": "cef21fe3007b21f8cae423e5ecc63a17",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/note/pling.ogg"
+          }
+        },
+        {
+          "id": ".DS_Store",
+          "name": ".DS_Store",
+          "type": "File",
+          "artifact": {
+            "size": 8196,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/.DS_Store",
+            "MD5": "6f9d55e11372aece05ce2eb5538bd628",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/.DS_Store"
+          }
+        },
+        {
+          "id": "anvil_break.ogg",
+          "name": "anvil_break.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 44165,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/anvil_break.ogg",
+            "MD5": "904385429323e4218f2f5cb938f8c6ab",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/anvil_break.ogg"
+          }
+        },
+        {
+          "id": "anvil_land.ogg",
+          "name": "anvil_land.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 8839,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/anvil_land.ogg",
+            "MD5": "ac8aca019257135e108d3a822820a7c0",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/anvil_land.ogg"
+          }
+        },
+        {
+          "id": "anvil_use.ogg",
+          "name": "anvil_use.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 45821,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/anvil_use.ogg",
+            "MD5": "769ae870b5ef80a5c1d9ab30eaa4ee42",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/anvil_use.ogg"
+          }
+        },
+        {
+          "id": "bow.ogg",
+          "name": "bow.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9389,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/bow.ogg",
+            "MD5": "b86934144ab3b1bab62394eb99b1ce09",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/bow.ogg"
+          }
+        },
+        {
+          "id": "break.ogg",
+          "name": "break.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 10795,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/break.ogg",
+            "MD5": "4678a1ec40800f9d5dbce83ca0ce32be",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/break.ogg"
+          }
+        },
+        {
+          "id": "burp.ogg",
+          "name": "burp.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 7565,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/burp.ogg",
+            "MD5": "388c4f2ca7173b1b290f4e4414dfdb85",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/burp.ogg"
+          }
+        },
+        {
+          "id": "chestclosed.ogg",
+          "name": "chestclosed.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 11792,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/chestclosed.ogg",
+            "MD5": "fc00a765a3079566c4348e39e094ca96",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/chestclosed.ogg"
+          }
+        },
+        {
+          "id": "chestopen.ogg",
+          "name": "chestopen.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 19173,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/chestopen.ogg",
+            "MD5": "6aeda664ec0a8cf1f057d634d2888bd3",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/chestopen.ogg"
+          }
+        },
+        {
+          "id": "click.ogg",
+          "name": "click.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 10531,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/click.ogg",
+            "MD5": "1002a392f6cec04e09432e209a6267ab",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/click.ogg"
+          }
+        },
+        {
+          "id": "door_close.ogg",
+          "name": "door_close.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9796,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/door_close.ogg",
+            "MD5": "949ec43275058474d730fb161f181f71",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/door_close.ogg"
+          }
+        },
+        {
+          "id": "door_open.ogg",
+          "name": "door_open.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9987,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/door_open.ogg",
+            "MD5": "16ff5f05b28ba175a45c2979fb896fd5",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/door_open.ogg"
+          }
+        },
+        {
+          "id": "drink.ogg",
+          "name": "drink.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 7929,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/drink.ogg",
+            "MD5": "798e7b8b467f1de0dc57df0756b12a96",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/drink.ogg"
+          }
+        },
+        {
+          "id": "eat1.ogg",
+          "name": "eat1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 13732,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/eat1.ogg",
+            "MD5": "81cdbb645089c88c9cb9df9fc72468c7",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/eat1.ogg"
+          }
+        },
+        {
+          "id": "eat2.ogg",
+          "name": "eat2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 14519,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/eat2.ogg",
+            "MD5": "273ec343fdb576561dddfb83816842c7",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/eat2.ogg"
+          }
+        },
+        {
+          "id": "eat3.ogg",
+          "name": "eat3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 10735,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/eat3.ogg",
+            "MD5": "4aaecd3f3e383e4e79a15d60dc6aeac7",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/eat3.ogg"
+          }
+        },
+        {
+          "id": "explode1.ogg",
+          "name": "explode1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 18137,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/explode1.ogg",
+            "MD5": "708c2914309bc637d692fe4f5f417c21",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/explode1.ogg"
+          }
+        },
+        {
+          "id": "explode2.ogg",
+          "name": "explode2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 18137,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/explode2.ogg",
+            "MD5": "708c2914309bc637d692fe4f5f417c21",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/explode2.ogg"
+          }
+        },
+        {
+          "id": "explode3.ogg",
+          "name": "explode3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 18137,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/explode3.ogg",
+            "MD5": "708c2914309bc637d692fe4f5f417c21",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/explode3.ogg"
+          }
+        },
+        {
+          "id": "explode4.ogg",
+          "name": "explode4.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 18137,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/explode4.ogg",
+            "MD5": "708c2914309bc637d692fe4f5f417c21",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/explode4.ogg"
+          }
+        },
+        {
+          "id": "glass1.ogg",
+          "name": "glass1.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 13378,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/glass1.ogg",
+            "MD5": "289742fb63d8438c07a592d4f8b9c5b8",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/glass1.ogg"
+          }
+        },
+        {
+          "id": "glass2.ogg",
+          "name": "glass2.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 13378,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/glass2.ogg",
+            "MD5": "289742fb63d8438c07a592d4f8b9c5b8",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/glass2.ogg"
+          }
+        },
+        {
+          "id": "glass3.ogg",
+          "name": "glass3.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 13378,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/glass3.ogg",
+            "MD5": "289742fb63d8438c07a592d4f8b9c5b8",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/glass3.ogg"
+          }
+        },
+        {
+          "id": "splash.ogg",
+          "name": "splash.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 29584,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/splash.ogg",
+            "MD5": "11cdb61a839fb6951fb19ad82d6e9c0b",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/splash.ogg"
+          }
+        },
+        {
+          "id": "successful_hit.ogg",
+          "name": "successful_hit.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 9302,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/random/successful_hit.ogg",
+            "MD5": "9cfc2635db1ca720ea9552447035e656",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/random/successful_hit.ogg"
+          }
+        },
+        {
+          "id": "11.ogg",
+          "name": "11.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 3974910,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/minecraft/sounds/records/11.ogg",
+            "MD5": "f507ca20dc6f61785acad1dd2ad02e6b",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/minecraft/sounds/records/11.ogg"
+          }
+        },
+        {
+          "id": "accept_icon.png",
+          "name": "accept_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 259,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/accept_icon.png",
+            "MD5": "8e5dcf0a54ca549f136b424fb127582a",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/accept_icon.png"
+          }
+        },
+        {
+          "id": "adventure.png",
+          "name": "adventure.png",
+          "type": "File",
+          "artifact": {
+            "size": 126977,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/adventure.png",
+            "MD5": "420e92f16e82cbdc8b87999b92b6439e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/adventure.png"
+          }
+        },
+        {
+          "id": "configure_icon.png",
+          "name": "configure_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 4263,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/configure_icon.png",
+            "MD5": "caaaabdd96a854f1ff79a53b476dd576",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/configure_icon.png"
+          }
+        },
+        {
+          "id": "cross_icon.png",
+          "name": "cross_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 4129,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/cross_icon.png",
+            "MD5": "366a8caaf53f529136d9e9feaf6c431a",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/cross_icon.png"
+          }
+        },
+        {
+          "id": "cross_player_icon.png",
+          "name": "cross_player_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 206,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/cross_player_icon.png",
+            "MD5": "1477ffcb3eda6ddcf63e3b6664a2158a",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/cross_player_icon.png"
+          }
+        },
+        {
+          "id": "darken.png",
+          "name": "darken.png",
+          "type": "File",
+          "artifact": {
+            "size": 67,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/darken.png",
+            "MD5": "3c7699e2873e1925d2a391d0c7675037",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/darken.png"
+          }
+        },
+        {
+          "id": "empty_frame.png",
+          "name": "empty_frame.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/empty_frame.png",
+            "MD5": "2092b2adc2f8ba202fcde6a4479c0e35",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/empty_frame.png"
+          }
+        },
+        {
+          "id": "experience.png",
+          "name": "experience.png",
+          "type": "File",
+          "artifact": {
+            "size": 124770,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/experience.png",
+            "MD5": "c151093a02e300d40ee66d3a3e204be6",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/experience.png"
+          }
+        },
+        {
+          "id": "expired_icon.png",
+          "name": "expired_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 414,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/expired_icon.png",
+            "MD5": "31675cc8e52c5c4994ae65d507b7877d",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/expired_icon.png"
+          }
+        },
+        {
+          "id": "expires_soon_icon.png",
+          "name": "expires_soon_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 743,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/expires_soon_icon.png",
+            "MD5": "258137518ab0a123376c9dd3e9a8107d",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/expires_soon_icon.png"
+          }
+        },
+        {
+          "id": "inspiration.png",
+          "name": "inspiration.png",
+          "type": "File",
+          "artifact": {
+            "size": 81059,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/inspiration.png",
+            "MD5": "58533bfabd0dc994c09c08dd2dadc1e7",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/inspiration.png"
+          }
+        },
+        {
+          "id": "invitation_icons.png",
+          "name": "invitation_icons.png",
+          "type": "File",
+          "artifact": {
+            "size": 390,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/invitation_icons.png",
+            "MD5": "415e6ac4d68702f954ead04e5a653877",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/invitation_icons.png"
+          }
+        },
+        {
+          "id": "invite_icon.png",
+          "name": "invite_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 290,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/invite_icon.png",
+            "MD5": "78c2082a745f9ef047959ac71719ba16",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/invite_icon.png"
+          }
+        },
+        {
+          "id": "leave_icon.png",
+          "name": "leave_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 4291,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/leave_icon.png",
+            "MD5": "59a0745ca5c7efbb9c92f0c040b600aa",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/leave_icon.png"
+          }
+        },
+        {
+          "id": "link_icons.png",
+          "name": "link_icons.png",
+          "type": "File",
+          "artifact": {
+            "size": 221,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/link_icons.png",
+            "MD5": "b95974e975e18254389423281eefa956",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/link_icons.png"
+          }
+        },
+        {
+          "id": "news_icon.png",
+          "name": "news_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 4264,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/news_icon.png",
+            "MD5": "04e8b54816f99ddf228c57c503e62235",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/news_icon.png"
+          }
+        },
+        {
+          "id": "news_notification_mainscreen.png",
+          "name": "news_notification_mainscreen.png",
+          "type": "File",
+          "artifact": {
+            "size": 195,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/news_notification_mainscreen.png",
+            "MD5": "51a77e3b4e8f1f932df97b3d37cd4c84",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/news_notification_mainscreen.png"
+          }
+        },
+        {
+          "id": "new_world.png",
+          "name": "new_world.png",
+          "type": "File",
+          "artifact": {
+            "size": 65633,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/new_world.png",
+            "MD5": "d763654fbcc9f8e9a7c04981f624bf78",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/new_world.png"
+          }
+        },
+        {
+          "id": "off_icon.png",
+          "name": "off_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 534,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/off_icon.png",
+            "MD5": "49574029ee4d906edd038ed280897542",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/off_icon.png"
+          }
+        },
+        {
+          "id": "on_icon.png",
+          "name": "on_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 532,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/on_icon.png",
+            "MD5": "68a02f46c1fe509f549b569a8dcff881",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/on_icon.png"
+          }
+        },
+        {
+          "id": "op_icon.png",
+          "name": "op_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 334,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/op_icon.png",
+            "MD5": "2b27c1edd54ea62661b6b1b84ccdaa73",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/op_icon.png"
+          }
+        },
+        {
+          "id": "plus_icon.png",
+          "name": "plus_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 116,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/plus_icon.png",
+            "MD5": "7714f2c8029f690053cdf41e86dc6ab3",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/plus_icon.png"
+          }
+        },
+        {
+          "id": "popup.png",
+          "name": "popup.png",
+          "type": "File",
+          "artifact": {
+            "size": 4626,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/popup.png",
+            "MD5": "6a772e54c9b9dcfb2ef2e5b69ed3f927",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/popup.png"
+          }
+        },
+        {
+          "id": "questionmark.png",
+          "name": "questionmark.png",
+          "type": "File",
+          "artifact": {
+            "size": 4221,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/questionmark.png",
+            "MD5": "87bb356a6577ff654fd21c95a63e916e",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/questionmark.png"
+          }
+        },
+        {
+          "id": "reject_icon.png",
+          "name": "reject_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 265,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/reject_icon.png",
+            "MD5": "eb5d1b9bfc94c128ba16ff13b54bfde7",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/reject_icon.png"
+          }
+        },
+        {
+          "id": "restore_icon.png",
+          "name": "restore_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 335,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/restore_icon.png",
+            "MD5": "82e1eace79f1ac8f587a0da4a107e8c1",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/restore_icon.png"
+          }
+        },
+        {
+          "id": "slot_frame.png",
+          "name": "slot_frame.png",
+          "type": "File",
+          "artifact": {
+            "size": 1030,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/slot_frame.png",
+            "MD5": "ecac549cdeb9707949f9afb9d1dd0b0f",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/slot_frame.png"
+          }
+        },
+        {
+          "id": "survival_spawn.png",
+          "name": "survival_spawn.png",
+          "type": "File",
+          "artifact": {
+            "size": 104031,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/survival_spawn.png",
+            "MD5": "a47b10599b16ee60d22af578b4fad69b",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/survival_spawn.png"
+          }
+        },
+        {
+          "id": "trailer_icons.png",
+          "name": "trailer_icons.png",
+          "type": "File",
+          "artifact": {
+            "size": 220,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/trailer_icons.png",
+            "MD5": "aa05c5704612689b39fbf393d0dd8102",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/trailer_icons.png"
+          }
+        },
+        {
+          "id": "trial_icon.png",
+          "name": "trial_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 207,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/trial_icon.png",
+            "MD5": "4bd71c113912ae537b47e7bfccd80f04",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/trial_icon.png"
+          }
+        },
+        {
+          "id": "upload.png",
+          "name": "upload.png",
+          "type": "File",
+          "artifact": {
+            "size": 122614,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/upload.png",
+            "MD5": "737e2f86602172e525941a879d1e9307",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/upload.png"
+          }
+        },
+        {
+          "id": "user_icon.png",
+          "name": "user_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 203,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/user_icon.png",
+            "MD5": "5bd4cc1b61229c89070fbe17a8d09f75",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/user_icon.png"
+          }
+        },
+        {
+          "id": "world_icon.png",
+          "name": "world_icon.png",
+          "type": "File",
+          "artifact": {
+            "size": 363,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/assets/realms/textures/gui/realms/world_icon.png",
+            "MD5": "530c022ade32cd36f69c80e6a86fafaf",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/assets/realms/textures/gui/realms/world_icon.png"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/pack.mcmeta",
+            "MD5": "ccd8bc2e697cc80bcfd785ff658f9090",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/pack.mcmeta"
+          }
+        },
+        {
+          "id": "pack.png",
+          "name": "pack.png",
+          "type": "File",
+          "artifact": {
+            "size": 13782,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/resourcepacks/zCucaracha%20Private%20Edit%20Remake/pack.png",
+            "MD5": "86dea9749a6bdc44c62d7103163b115a",
+            "path": "resourcepacks/zCucaracha Private Edit Remake/pack.png"
           }
         },
         {
