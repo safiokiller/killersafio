@@ -530,6 +530,391 @@
           }
         },
         {
+          "id": "jei-1.20.4-fabric-17.3.1.5.jar",
+          "name": "jei-1.20.4-fabric-17.3.1.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1131744,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/optionaloff/jei-1.20.4-fabric-17.3.1.5.jar",
+            "MD5": "6c7db5d7eb10fc60dcde04a3e63aa26c",
+            "path": "fabricmods/optionaloff/jei-1.20.4-fabric-17.3.1.5.jar"
+          }
+        },
+        {
+          "id": "sound-physics-remastered-fabric-1.20.4-1.4.5 (3).jar",
+          "name": "sound-physics-remastered-fabric-1.20.4-1.4.5 (3).jar",
+          "type": "File",
+          "artifact": {
+            "size": 195142,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/optionaloff/sound-physics-remastered-fabric-1.20.4-1.4.5%20(3).jar",
+            "MD5": "37038ab44ed2110b7bd73b67b590381e",
+            "path": "fabricmods/optionaloff/sound-physics-remastered-fabric-1.20.4-1.4.5 (3).jar"
+          }
+        },
+        {
+          "id": "Zoomify-2.14.2+1.20.4.jar",
+          "name": "Zoomify-2.14.2+1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 807874,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/optionaloff/Zoomify-2.14.2+1.20.4.jar",
+            "MD5": "cf99ab393d527fda2e146206ac447a5d",
+            "path": "fabricmods/optionaloff/Zoomify-2.14.2+1.20.4.jar"
+          }
+        },
+        {
+          "id": "appleskin-fabric-mc1.20.3-2.5.1.jar",
+          "name": "appleskin-fabric-mc1.20.3-2.5.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1077002,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/appleskin-fabric-mc1.20.3-2.5.1.jar",
+            "MD5": "60e559dd89ef9104af41449158634162",
+            "path": "fabricmods/required/appleskin-fabric-mc1.20.3-2.5.1.jar"
+          }
+        },
+        {
+          "id": "architectury-11.1.17-fabric.jar",
+          "name": "architectury-11.1.17-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 587429,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/architectury-11.1.17-fabric.jar",
+            "MD5": "666d154657c8c2241377720d679dc6de",
+            "path": "fabricmods/required/architectury-11.1.17-fabric.jar"
+          }
+        },
+        {
+          "id": "celestial_1.19.4_fabric-2.0.jar",
+          "name": "celestial_1.19.4_fabric-2.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 201945,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/celestial_1.19.4_fabric-2.0.jar",
+            "MD5": "7a00a6b09608506d5c8051452304b286",
+            "path": "fabricmods/required/celestial_1.19.4_fabric-2.0.jar"
+          }
+        },
+        {
+          "id": "cloth-config-13.0.138-fabric.jar",
+          "name": "cloth-config-13.0.138-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1154870,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/cloth-config-13.0.138-fabric.jar",
+            "MD5": "fe340d88340db91313eb5d50febcbb81",
+            "path": "fabricmods/required/cloth-config-13.0.138-fabric.jar"
+          }
+        },
+        {
+          "id": "collective-1.20.4-7.64.jar",
+          "name": "collective-1.20.4-7.64.jar",
+          "type": "File",
+          "artifact": {
+            "size": 872418,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/collective-1.20.4-7.64.jar",
+            "MD5": "c295a3136d546007a95751df88ac8786",
+            "path": "fabricmods/required/collective-1.20.4-7.64.jar"
+          }
+        },
+        {
+          "id": "continuity-3.0.0+1.20.2.jar",
+          "name": "continuity-3.0.0+1.20.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1016209,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/continuity-3.0.0+1.20.2.jar",
+            "MD5": "66c63db86b7fbc4fbb5a3816c124b03b",
+            "path": "fabricmods/required/continuity-3.0.0+1.20.2.jar"
+          }
+        },
+        {
+          "id": "dynamic-fps-3.8.0+minecraft-1.20.2-fabric.jar",
+          "name": "dynamic-fps-3.8.0+minecraft-1.20.2-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 193734,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/dynamic-fps-3.8.0+minecraft-1.20.2-fabric.jar",
+            "MD5": "43c6bdf03bd6b0fb63d4f0e1234b22f0",
+            "path": "fabricmods/required/dynamic-fps-3.8.0+minecraft-1.20.2-fabric.jar"
+          }
+        },
+        {
+          "id": "entityculling-fabric-1.7.3-mc1.20.4.jar",
+          "name": "entityculling-fabric-1.7.3-mc1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 72625,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/entityculling-fabric-1.7.3-mc1.20.4.jar",
+            "MD5": "509ac8d801813f015913785eb6ddd358",
+            "path": "fabricmods/required/entityculling-fabric-1.7.3-mc1.20.4.jar"
+          }
+        },
+        {
+          "id": "entity_model_features_fabric_1.20.4-2.4.1.jar",
+          "name": "entity_model_features_fabric_1.20.4-2.4.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 443556,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/entity_model_features_fabric_1.20.4-2.4.1.jar",
+            "MD5": "0869e170ef5ae4f0784620484b717115",
+            "path": "fabricmods/required/entity_model_features_fabric_1.20.4-2.4.1.jar"
+          }
+        },
+        {
+          "id": "entity_texture_features_fabric_1.20.4-6.2.9.jar",
+          "name": "entity_texture_features_fabric_1.20.4-6.2.9.jar",
+          "type": "File",
+          "artifact": {
+            "size": 651986,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/entity_texture_features_fabric_1.20.4-6.2.9.jar",
+            "MD5": "e3ee94839f9c271ed7b80d42b8a04ff0",
+            "path": "fabricmods/required/entity_texture_features_fabric_1.20.4-6.2.9.jar"
+          }
+        },
+        {
+          "id": "fabric-api-0.97.2+1.20.4.jar",
+          "name": "fabric-api-0.97.2+1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2187410,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/fabric-api-0.97.2+1.20.4.jar",
+            "MD5": "2733c159c2f7628983a96b442ca3f823",
+            "path": "fabricmods/required/fabric-api-0.97.2+1.20.4.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar",
+          "name": "fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar",
+          "type": "File",
+          "artifact": {
+            "size": 7107488,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar",
+            "MD5": "93f482c99cce35eeca5e1c974c936129",
+            "path": "fabricmods/required/fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar"
+          }
+        },
+        {
+          "id": "fabricskyboxes-0.7.3+mc1.20.2.jar",
+          "name": "fabricskyboxes-0.7.3+mc1.20.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 207267,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/fabricskyboxes-0.7.3+mc1.20.2.jar",
+            "MD5": "dc3e7903dd9fc8222b2866d9e220e369",
+            "path": "fabricmods/required/fabricskyboxes-0.7.3+mc1.20.2.jar"
+          }
+        },
+        {
+          "id": "fancymenu_fabric_3.3.2_MC_1.20.4.jar",
+          "name": "fancymenu_fabric_3.3.2_MC_1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2884076,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/fancymenu_fabric_3.3.2_MC_1.20.4.jar",
+            "MD5": "e2d016daa48fe71fbe72a21c5bcb8937",
+            "path": "fabricmods/required/fancymenu_fabric_3.3.2_MC_1.20.4.jar"
+          }
+        },
+        {
+          "id": "ferritecore-6.0.3-fabric.jar",
+          "name": "ferritecore-6.0.3-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 125100,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/ferritecore-6.0.3-fabric.jar",
+            "MD5": "a684cfcdbc32eddaf78782fb4e5762f4",
+            "path": "fabricmods/required/ferritecore-6.0.3-fabric.jar"
+          }
+        },
+        {
+          "id": "ImmediatelyFast-Fabric-1.3.5+1.20.4.jar",
+          "name": "ImmediatelyFast-Fabric-1.3.5+1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 243475,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/ImmediatelyFast-Fabric-1.3.5+1.20.4.jar",
+            "MD5": "1b4f8b11a86fd77dfc27a31ba726c50a",
+            "path": "fabricmods/required/ImmediatelyFast-Fabric-1.3.5+1.20.4.jar"
+          }
+        },
+        {
+          "id": "indium-1.0.31+mc1.20.4.jar",
+          "name": "indium-1.0.31+mc1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 105350,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/indium-1.0.31+mc1.20.4.jar",
+            "MD5": "86d20afc613763546f51452ef893be82",
+            "path": "fabricmods/required/indium-1.0.31+mc1.20.4.jar"
+          }
+        },
+        {
+          "id": "iris-1.7.2+mc1.20.4.jar",
+          "name": "iris-1.7.2+mc1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2703697,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/iris-1.7.2+mc1.20.4.jar",
+            "MD5": "fa3647d1891a719b268c636236d989c2",
+            "path": "fabricmods/required/iris-1.7.2+mc1.20.4.jar"
+          }
+        },
+        {
+          "id": "konkrete_fabric_1.9.2_MC_1.20.4.jar",
+          "name": "konkrete_fabric_1.9.2_MC_1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 785596,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/konkrete_fabric_1.9.2_MC_1.20.4.jar",
+            "MD5": "5207d60a19db3a98d3be1c8cae732173",
+            "path": "fabricmods/required/konkrete_fabric_1.9.2_MC_1.20.4.jar"
+          }
+        },
+        {
+          "id": "krypton-0.2.6.jar",
+          "name": "krypton-0.2.6.jar",
+          "type": "File",
+          "artifact": {
+            "size": 167163,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/krypton-0.2.6.jar",
+            "MD5": "eaffbefc9a3dd361299c09eda8826c35",
+            "path": "fabricmods/required/krypton-0.2.6.jar"
+          }
+        },
+        {
+          "id": "lambdynamiclights-2.3.4+1.20.4.jar",
+          "name": "lambdynamiclights-2.3.4+1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 568669,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/lambdynamiclights-2.3.4+1.20.4.jar",
+            "MD5": "3c849e6337ff7c850762c6cc27f607ab",
+            "path": "fabricmods/required/lambdynamiclights-2.3.4+1.20.4.jar"
+          }
+        },
+        {
+          "id": "lithium-fabric-mc1.20.4-0.12.1.jar",
+          "name": "lithium-fabric-mc1.20.4-0.12.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 716022,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/lithium-fabric-mc1.20.4-0.12.1.jar",
+            "MD5": "83da6729d5402dc42eca740a96f97346",
+            "path": "fabricmods/required/lithium-fabric-mc1.20.4-0.12.1.jar"
+          }
+        },
+        {
+          "id": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+          "name": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 39696,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "MD5": "8095b46d324586b3cf3d2f5bffe8b417",
+            "path": "fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
+          }
+        },
+        {
+          "id": "modernfix-fabric-5.17.0+mc1.20.4.jar",
+          "name": "modernfix-fabric-5.17.0+mc1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 458056,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/modernfix-fabric-5.17.0+mc1.20.4.jar",
+            "MD5": "c988c6a3371040def77a32f3741c9723",
+            "path": "fabricmods/required/modernfix-fabric-5.17.0+mc1.20.4.jar"
+          }
+        },
+        {
+          "id": "moreculling-1.20.4-0.24.0.jar",
+          "name": "moreculling-1.20.4-0.24.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 272851,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/moreculling-1.20.4-0.24.0.jar",
+            "MD5": "109804ad4b9f14a549f02bf26c98ac44",
+            "path": "fabricmods/required/moreculling-1.20.4-0.24.0.jar"
+          }
+        },
+        {
+          "id": "notenoughanimations-fabric-1.9.2-mc1.20.4.jar",
+          "name": "notenoughanimations-fabric-1.9.2-mc1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 450432,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/notenoughanimations-fabric-1.9.2-mc1.20.4.jar",
+            "MD5": "6fe470abcec9cf291eec4f949d6d5dac",
+            "path": "fabricmods/required/notenoughanimations-fabric-1.9.2-mc1.20.4.jar"
+          }
+        },
+        {
+          "id": "reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
+          "name": "reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
+          "type": "File",
+          "artifact": {
+            "size": 77393,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
+            "MD5": "3353347619cc18acb9b6ef811ac6a310",
+            "path": "fabricmods/required/reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar"
+          }
+        },
+        {
+          "id": "skinlayers3d-fabric-1.7.4-mc1.20.4.jar",
+          "name": "skinlayers3d-fabric-1.7.4-mc1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 479930,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/skinlayers3d-fabric-1.7.4-mc1.20.4.jar",
+            "MD5": "eb814744630eeadcfce38a71cdb18f6d",
+            "path": "fabricmods/required/skinlayers3d-fabric-1.7.4-mc1.20.4.jar"
+          }
+        },
+        {
+          "id": "sodium-extra-0.5.4+mc1.20.4-build.116.jar",
+          "name": "sodium-extra-0.5.4+mc1.20.4-build.116.jar",
+          "type": "File",
+          "artifact": {
+            "size": 385665,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/sodium-extra-0.5.4+mc1.20.4-build.116.jar",
+            "MD5": "a414a1b266c8e6bd22b37c72413000ff",
+            "path": "fabricmods/required/sodium-extra-0.5.4+mc1.20.4-build.116.jar"
+          }
+        },
+        {
+          "id": "sodium-fabric-0.5.8+mc1.20.4.jar",
+          "name": "sodium-fabric-0.5.8+mc1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 949085,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4.jar",
+            "MD5": "d7753a50ca37f50abb10465a9a425dac",
+            "path": "fabricmods/required/sodium-fabric-0.5.8+mc1.20.4.jar"
+          }
+        },
+        {
+          "id": "voicechat-fabric-1.20.4-2.5.22.jar",
+          "name": "voicechat-fabric-1.20.4-2.5.22.jar",
+          "type": "File",
+          "artifact": {
+            "size": 8147474,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/voicechat-fabric-1.20.4-2.5.22.jar",
+            "MD5": "5217d3b088200ebac7fbb7f3e41087ef",
+            "path": "fabricmods/required/voicechat-fabric-1.20.4-2.5.22.jar"
+          }
+        },
+        {
+          "id": "yet_another_config_lib_v3-3.6.3+1.20.4-fabric.jar",
+          "name": "yet_another_config_lib_v3-3.6.3+1.20.4-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1177881,
+            "url": "https://killersafio-db56a.web.app/host/servers/MinecraftApocalipse-1.20.4/files/fabricmods/required/yet_another_config_lib_v3-3.6.3+1.20.4-fabric.jar",
+            "MD5": "1932042d93865af9498784122aadf86f",
+            "path": "fabricmods/required/yet_another_config_lib_v3-3.6.3+1.20.4-fabric.jar"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
