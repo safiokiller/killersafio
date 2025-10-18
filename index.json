@@ -24,6 +24,270 @@
       "autoconnect": false,
       "modules": [
         {
+          "id": "appleskin-fabric-mc1.20.3-2.5.1.jar",
+          "name": "appleskin-fabric-mc1.20.3-2.5.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1077002,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/appleskin-fabric-mc1.20.3-2.5.1.jar",
+            "MD5": "60e559dd89ef9104af41449158634162",
+            "path": "mods/appleskin-fabric-mc1.20.3-2.5.1.jar"
+          }
+        },
+        {
+          "id": "BadOptimizations-2.3.1-1.20.2-20.4.jar",
+          "name": "BadOptimizations-2.3.1-1.20.2-20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 298687,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/BadOptimizations-2.3.1-1.20.2-20.4.jar",
+            "MD5": "a5c2d995664fe9ab15b75459a0370693",
+            "path": "mods/BadOptimizations-2.3.1-1.20.2-20.4.jar"
+          }
+        },
+        {
+          "id": "chat_heads-0.14.0-fabric-1.20.4.jar",
+          "name": "chat_heads-0.14.0-fabric-1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 80121,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/chat_heads-0.14.0-fabric-1.20.4.jar",
+            "MD5": "7ff146893d64e8004c8521d48589f191",
+            "path": "mods/chat_heads-0.14.0-fabric-1.20.4.jar"
+          }
+        },
+        {
+          "id": "dynamic-fps-3.9.5+minecraft-1.20.2-fabric.jar",
+          "name": "dynamic-fps-3.9.5+minecraft-1.20.2-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 196990,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/dynamic-fps-3.9.5+minecraft-1.20.2-fabric.jar",
+            "MD5": "0d7e1c01bab41df7f1773aa119ff813e",
+            "path": "mods/dynamic-fps-3.9.5+minecraft-1.20.2-fabric.jar"
+          }
+        },
+        {
+          "id": "entityculling-fabric-1.9.1-mc1.20.4.jar",
+          "name": "entityculling-fabric-1.9.1-mc1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 469672,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/entityculling-fabric-1.9.1-mc1.20.4.jar",
+            "MD5": "11b28b6001c8ee6da9ab3cd45188623f",
+            "path": "mods/entityculling-fabric-1.9.1-mc1.20.4.jar"
+          }
+        },
+        {
+          "id": "entity_model_features_1.20.4-fabric-3.0.1.jar",
+          "name": "entity_model_features_1.20.4-fabric-3.0.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 470547,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/entity_model_features_1.20.4-fabric-3.0.1.jar",
+            "MD5": "7220f0b4365e1a465cbbec422f849230",
+            "path": "mods/entity_model_features_1.20.4-fabric-3.0.1.jar"
+          }
+        },
+        {
+          "id": "entity_texture_features_1.20.4-fabric-7.0.2.jar",
+          "name": "entity_texture_features_1.20.4-fabric-7.0.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 704906,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/entity_texture_features_1.20.4-fabric-7.0.2.jar",
+            "MD5": "5f029c1b6d58878940a5a2e516b37887",
+            "path": "mods/entity_texture_features_1.20.4-fabric-7.0.2.jar"
+          }
+        },
+        {
+          "id": "fabric-api-0.97.3+1.20.4.jar",
+          "name": "fabric-api-0.97.3+1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2187523,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/fabric-api-0.97.3+1.20.4.jar",
+            "MD5": "03ed4ae378e68f42ccf05dbe97007793",
+            "path": "mods/fabric-api-0.97.3+1.20.4.jar"
+          }
+        },
+        {
+          "id": "ferritecore-6.0.3-fabric.jar",
+          "name": "ferritecore-6.0.3-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 125100,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/ferritecore-6.0.3-fabric.jar",
+            "MD5": "a684cfcdbc32eddaf78782fb4e5762f4",
+            "path": "mods/ferritecore-6.0.3-fabric.jar"
+          }
+        },
+        {
+          "id": "ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
+          "name": "ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 242651,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
+            "MD5": "e5b2f5311044503a61e51b3cd2987962",
+            "path": "mods/ImmediatelyFast-Fabric-1.5.2+1.20.4.jar"
+          }
+        },
+        {
+          "id": "iris-1.7.2+mc1.20.4.jar",
+          "name": "iris-1.7.2+mc1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2703697,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/iris-1.7.2+mc1.20.4.jar",
+            "MD5": "fa3647d1891a719b268c636236d989c2",
+            "path": "mods/iris-1.7.2+mc1.20.4.jar"
+          }
+        },
+        {
+          "id": "lambdynamiclights-2.3.4+1.20.4.jar",
+          "name": "lambdynamiclights-2.3.4+1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 568669,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/lambdynamiclights-2.3.4+1.20.4.jar",
+            "MD5": "3c849e6337ff7c850762c6cc27f607ab",
+            "path": "mods/lambdynamiclights-2.3.4+1.20.4.jar"
+          }
+        },
+        {
+          "id": "lithium-fabric-mc1.20.4-0.12.1.jar",
+          "name": "lithium-fabric-mc1.20.4-0.12.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 716022,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/lithium-fabric-mc1.20.4-0.12.1.jar",
+            "MD5": "83da6729d5402dc42eca740a96f97346",
+            "path": "mods/lithium-fabric-mc1.20.4-0.12.1.jar"
+          }
+        },
+        {
+          "id": "modernfix-fabric-5.17.0+mc1.20.4.jar",
+          "name": "modernfix-fabric-5.17.0+mc1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 458056,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/modernfix-fabric-5.17.0+mc1.20.4.jar",
+            "MD5": "c988c6a3371040def77a32f3741c9723",
+            "path": "mods/modernfix-fabric-5.17.0+mc1.20.4.jar"
+          }
+        },
+        {
+          "id": "modmenu-9.2.0.jar",
+          "name": "modmenu-9.2.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 963019,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/modmenu-9.2.0.jar",
+            "MD5": "f8008ee81dd401a441bd20f41e43fca2",
+            "path": "mods/modmenu-9.2.0.jar"
+          }
+        },
+        {
+          "id": "morechathistory-1.3.0.jar",
+          "name": "morechathistory-1.3.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3546,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/morechathistory-1.3.0.jar",
+            "MD5": "1980ac8b5b66417091d101682af8865c",
+            "path": "mods/morechathistory-1.3.0.jar"
+          }
+        },
+        {
+          "id": "notenoughanimations-fabric-1.10.4.1-mc1.20.4.jar",
+          "name": "notenoughanimations-fabric-1.10.4.1-mc1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 829461,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/notenoughanimations-fabric-1.10.4.1-mc1.20.4.jar",
+            "MD5": "59e71f6a9937e57c2c7c434a26643441",
+            "path": "mods/notenoughanimations-fabric-1.10.4.1-mc1.20.4.jar"
+          }
+        },
+        {
+          "id": "reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
+          "name": "reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
+          "type": "File",
+          "artifact": {
+            "size": 77393,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
+            "MD5": "3353347619cc18acb9b6ef811ac6a310",
+            "path": "mods/reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar"
+          }
+        },
+        {
+          "id": "shulkerboxtooltip-fabric-4.1.0+1.20.4.jar",
+          "name": "shulkerboxtooltip-fabric-4.1.0+1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1225846,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/shulkerboxtooltip-fabric-4.1.0+1.20.4.jar",
+            "MD5": "949844eb69788cc29ac62ef1cbadbae3",
+            "path": "mods/shulkerboxtooltip-fabric-4.1.0+1.20.4.jar"
+          }
+        },
+        {
+          "id": "skinlayers3d-fabric-1.9.2-mc1.20.4.jar",
+          "name": "skinlayers3d-fabric-1.9.2-mc1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 869764,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/skinlayers3d-fabric-1.9.2-mc1.20.4.jar",
+            "MD5": "76f1e5a5bcc0f5c1f4f44e2fe76c2eea",
+            "path": "mods/skinlayers3d-fabric-1.9.2-mc1.20.4.jar"
+          }
+        },
+        {
+          "id": "sodium-extra-0.5.4+mc1.20.4-build.116.jar",
+          "name": "sodium-extra-0.5.4+mc1.20.4-build.116.jar",
+          "type": "File",
+          "artifact": {
+            "size": 385665,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/sodium-extra-0.5.4+mc1.20.4-build.116.jar",
+            "MD5": "a414a1b266c8e6bd22b37c72413000ff",
+            "path": "mods/sodium-extra-0.5.4+mc1.20.4-build.116.jar"
+          }
+        },
+        {
+          "id": "sodium-fabric-0.5.8+mc1.20.4.jar",
+          "name": "sodium-fabric-0.5.8+mc1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 949085,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/sodium-fabric-0.5.8+mc1.20.4.jar",
+            "MD5": "d7753a50ca37f50abb10465a9a425dac",
+            "path": "mods/sodium-fabric-0.5.8+mc1.20.4.jar"
+          }
+        },
+        {
+          "id": "sound-physics-remastered-fabric-1.20.4-1.4.5.jar",
+          "name": "sound-physics-remastered-fabric-1.20.4-1.4.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 195142,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/sound-physics-remastered-fabric-1.20.4-1.4.5.jar",
+            "MD5": "37038ab44ed2110b7bd73b67b590381e",
+            "path": "mods/sound-physics-remastered-fabric-1.20.4-1.4.5.jar"
+          }
+        },
+        {
+          "id": "voicechat-fabric-1.20.4-2.5.20.jar",
+          "name": "voicechat-fabric-1.20.4-2.5.20.jar",
+          "type": "File",
+          "artifact": {
+            "size": 8136694,
+            "url": "https://killersafio-db56a.web.app/host/servers/Killersafio-1.20.4/files/mods/voicechat-fabric-1.20.4-2.5.20.jar",
+            "MD5": "1fb99f96c970e2405c22ecf100f1ab2e",
+            "path": "mods/voicechat-fabric-1.20.4-2.5.20.jar"
+          }
+        },
+        {
           "id": "ComplementaryReimagined_r5.6.1.zip",
           "name": "ComplementaryReimagined_r5.6.1.zip",
           "type": "File",
